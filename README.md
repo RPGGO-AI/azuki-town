@@ -33,6 +33,12 @@ The primary goal of this project, beyond just being a lot of fun to work on, is 
 
 ## Installation
 
+### preinstall
+#### windows
+1. download and install nodjs and npm from https://nodejs.org/en/download
+2. Install Visual C++ Build Environment: Visual Studio Build Tools (using "Visual C++ build tools" if using a version older than VS2019, otherwise use "Desktop development with C++" workload) or Visual Studio Community (using the "Desktop development with C++" workload)
+
+
 ### Clone repo and Install packages
 
 ```bash
